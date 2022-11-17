@@ -1,3 +1,3 @@
-module github.com/NZ-WEB/nzmath.git
+module github.com/NZ-WEB/nzmath
 
 go 1.19
