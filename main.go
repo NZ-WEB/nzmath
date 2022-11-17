@@ -1,4 +1,4 @@
-package trigonametry
+package nzmath
 
 import "math"
 
